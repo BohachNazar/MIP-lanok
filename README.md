@@ -1,2 +1,2 @@
-# MIP-lanok
+# MIP-članok
 Môj članok
